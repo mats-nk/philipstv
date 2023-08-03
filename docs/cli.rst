@@ -72,6 +72,6 @@ Example usage session could look like this:
     Twitch
     Prime Video
     Netflix
-    $ philipstv launch Netflix
+    $ philipstv app launch Netflix
     $ philipstv key ok
     $ philipstv key play
